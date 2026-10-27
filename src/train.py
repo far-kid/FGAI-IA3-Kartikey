@@ -140,7 +140,8 @@ def train(name: str, args) -> None:
         model_id = HF_MODELS[name]
         tokenizer = AutoTokenizer.from_pretrained(model_id)
         if name == "mt5":
-            model = AutoModelForSeq2SeqLM.from_pretrained(model_id, torch_dtype=torch.float16 if gpu else torch.float32)
+            # Keep master weights in fp32; autocast/GradScaler handles fp16 GPU compute.
+            model = AutoModelForSeq2SeqLM.from_pretrained(model_id, torch_dtype=torch.float32)
             train_examples = seq2seq_examples(train_rows, tokenizer)
             val_examples = seq2seq_examples(val_rows, tokenizer)
             collate = lambda batch: language_model_collate(batch, tokenizer.pad_token_id)
@@ -167,7 +168,7 @@ def train(name: str, args) -> None:
                    "trainable_parameters": sum(p.numel() for p in model.parameters() if p.requires_grad),
                    "train_examples": len(train_rows), "validation_examples": len(val_rows),
                    "batch_size": args.batch_size, "gradient_accumulation": args.grad_accum, "epochs_requested": args.epochs,
-                   "seed": args.seed, "learning_rate": lr, **env_info()})
+                   "seed": args.seed, "learning_rate": lr, "max_train_steps_requested": args.max_train_steps, **env_info()})
     write_json(run_dir / "train_metrics.json", result)
     print(f"Saved {run_dir / 'train_metrics.json'}")
 

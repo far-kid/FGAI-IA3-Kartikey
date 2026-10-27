@@ -14,6 +14,4 @@ runs/
 .env
 *.log
 tmp/
-assn.md
 # Keep source code, assignment, manifest, metrics, samples, and plots in Git.
-assn.md
