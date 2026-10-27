@@ -1,1 +1,19 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Downloaded training data and model checkpoints
+data/*.jsonl
+runs/
+*.safetensors
+
+# Temporary files and local secrets
+.env
+*.log
+tmp/
+assn.md
+# Keep source code, assignment, manifest, metrics, samples, and plots in Git.
 assn.md
