@@ -67,3 +67,7 @@ Suggested mitigations include balanced and counterfactual data, explicit handlin
 ## Conclusion
 
 For this Multi30k test set, **mT5-small is the best overall choice by BLEU and inference time among the two top-scoring systems**. Gemma LoRA leads on chrF; the basic Transformer offers the lowest compute cost. The ranking should not be generalized beyond this dataset and run without testing other domains and human adequacy judgments.
+
+## Submission cover
+
+The required [Word document](submission/Kartikey_Goyal_230911536_FGAI_Assignment3.docx) and [PDF copy](submission/Kartikey_Goyal_230911536_FGAI_Assignment3.pdf) list the student details, system title, dataset, and GitHub repository link.
