@@ -4,6 +4,7 @@ __pycache__/
 .venv/
 .pytest_cache/
 .ipynb_checkpoints/
+~$*.docx
 
 # Downloaded training data and model checkpoints
 data/*.jsonl
