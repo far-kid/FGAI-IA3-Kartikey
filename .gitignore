@@ -9,12 +9,13 @@ __pycache__/
 data/*.jsonl
 runs/
 *.safetensors
+*.pt
 
 # Temporary files and local secrets
 .env
 *.log
 tmp/
 mt_outputs/
-# Keep source code, assignment, manifest, metrics, samples, and plots in Git.
+mt_outputs.zip
 
-assn.md
+# Keep the notebook and curated results in Git.

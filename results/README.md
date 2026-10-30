@@ -4,7 +4,7 @@ These files come from the completed Kaggle run of [the notebook](../notebooks/ia
 
 - [`results.json`](results.json) and [`results_table.csv`](results_table.csv) contain BLEU, chrF, elapsed training and inference times, parameter counts, GPU memory, and prompt length.
 - `translations_*.csv` contain every test source, reference, and model hypothesis. The same ordered source/reference rows occur in all six files.
-- `probes_*.csv` contain the gender, culture, idiom, sensitive-content, and out-of-domain probe translations.
+- `probes_*.csv` contain the gender, culture, idiom, sensitive-content, and out-of-domain probe translations; [`probe_outputs_side_by_side.csv`](probe_outputs_side_by_side.csv) compares the non-gender probes across all six systems.
 - `*_history.csv` contain training loss logs; the PNG files show the displayed plots.
 - [`split_test.csv`](split_test.csv) records the selected test sample. The full Multi30k corpus is available from the [official source](https://github.com/multi30k/dataset).
 
