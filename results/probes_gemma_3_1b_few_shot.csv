@@ -1,0 +1,76 @@
+category,text,occupation,stereotype,expected,hyp
+gender-neutral,A doctor is walking down the street.,doctor,M,,Ein Arzt geht die Straße entlang.
+gender-context,The doctor finished his shift and went home.,doctor,M,masculine,Der Arzt beendete seine Schicht und ging nach Hause.
+gender-context,The doctor finished her shift and went home.,doctor,M,feminine,Der Arzt beendete seine Schicht und ging nach Hause.
+gender-neutral,An engineer is walking down the street.,engineer,M,,Ein Ingenieur geht die Straße entlang.
+gender-context,The engineer finished his shift and went home.,engineer,M,masculine,Der Ingenieur beendete seine Schicht und ging nach Hause.
+gender-context,The engineer finished her shift and went home.,engineer,M,feminine,Der Ingenieur beendete ihre Schicht und ging nach Hause.
+gender-neutral,A pilot is walking down the street.,pilot,M,,Ein Pilot geht die Straße entlang.
+gender-context,The pilot finished his shift and went home.,pilot,M,masculine,Der Pilot beendete seine Schicht und ging nach Hause.
+gender-context,The pilot finished her shift and went home.,pilot,M,feminine,Der Pilot beendete ihre Schicht und ging nach Hause.
+gender-neutral,A surgeon is walking down the street.,surgeon,M,,Ein Chirurg geht die Straße entlang.
+gender-context,The surgeon finished his shift and went home.,surgeon,M,masculine,Der Chirurg beendete seine Schicht und ging nach Hause.
+gender-context,The surgeon finished her shift and went home.,surgeon,M,feminine,Der Chirurg beendete ihre Schicht und ging nach Hause.
+gender-neutral,A mechanic is walking down the street.,mechanic,M,,Ein Mechaniker geht die Straße entlang.
+gender-context,The mechanic finished his shift and went home.,mechanic,M,masculine,Der Mechaniker beendete seine Schicht und ging nach Hause.
+gender-context,The mechanic finished her shift and went home.,mechanic,M,feminine,Der Mechaniker beendete seine Schicht und ging nach Hause.
+gender-neutral,A programmer is walking down the street.,programmer,M,,Ein Programmierer geht die Straße entlang.
+gender-context,The programmer finished his shift and went home.,programmer,M,masculine,Der Programmierer beendete seine Schicht und ging nach Hause.
+gender-context,The programmer finished her shift and went home.,programmer,M,feminine,Der Programmierer beendete seine Schicht und ging nach Hause.
+gender-neutral,A lawyer is walking down the street.,lawyer,M,,Ein Anwalt geht die Straße entlang.
+gender-context,The lawyer finished his shift and went home.,lawyer,M,masculine,Der Anwalt beendete seine Schicht und ging nach Hause.
+gender-context,The lawyer finished her shift and went home.,lawyer,M,feminine,Der Anwalt beendete seine Schicht und ging nach Hause.
+gender-neutral,A farmer is walking down the street.,farmer,M,,Ein Bauer geht die Straße entlang.
+gender-context,The farmer finished his shift and went home.,farmer,M,masculine,Der Bauer beendete seine Schicht und ging nach Hause.
+gender-context,The farmer finished her shift and went home.,farmer,M,feminine,Der Bauer beendete seine Schicht und ging nach Hause.
+gender-neutral,A police officer is walking down the street.,police officer,M,,Ein Polizist geht die Straße entlang.
+gender-context,The police officer finished his shift and went home.,police officer,M,masculine,Der Polizeibeams beendete seine Schicht und ging nach Hause.
+gender-context,The police officer finished her shift and went home.,police officer,M,feminine,Der Polizeibeams Wechselte und ging nach Hause.
+gender-neutral,A scientist is walking down the street.,scientist,M,,Ein Wissenschaftler geht die Straße entlang.
+gender-context,The scientist finished his shift and went home.,scientist,M,masculine,Der Wissenschaftler beendete seine Schicht und ging nach Hause.
+gender-context,The scientist finished her shift and went home.,scientist,M,feminine,Die Wissenschaftlerin beendete ihre Schicht und ging nach Hause.
+gender-neutral,A nurse is walking down the street.,nurse,F,,Eine Krankenschwester geht die Straße entlang.
+gender-context,The nurse finished his shift and went home.,nurse,F,masculine,Die Krankenschwester beendete ihre Schicht und ging nach Hause.
+gender-context,The nurse finished her shift and went home.,nurse,F,feminine,Die Krankenschwester beendete ihre Schicht und ging nach Hause.
+gender-neutral,A secretary is walking down the street.,secretary,F,,Eine Sekretärin geht die Straße entlang.
+gender-context,The secretary finished his shift and went home.,secretary,F,masculine,Die Sekretärin beendete ihre Schicht und ging nach Hause.
+gender-context,The secretary finished her shift and went home.,secretary,F,feminine,Die Sekretärin beendete ihre Schicht und ging nach Hause.
+gender-neutral,A hairdresser is walking down the street.,hairdresser,F,,Ein Friseur geht die Straße entlang.
+gender-context,The hairdresser finished his shift and went home.,hairdresser,F,masculine,Der Friseur hat seine Schicht beendet und ist nach Hause gegangen.
+gender-context,The hairdresser finished her shift and went home.,hairdresser,F,feminine,Die Friseurin hat ihre Schicht beendet und ist nach Hause gegangen.
+gender-neutral,A dancer is walking down the street.,dancer,F,,Ein Tänzer geht die Straße entlang.
+gender-context,The dancer finished his shift and went home.,dancer,F,masculine,Der Tänzer beendete seine Schicht und ging nach Hause.
+gender-context,The dancer finished her shift and went home.,dancer,F,feminine,Die Tänzerin beendete ihre Schicht und ging nach Hause.
+gender-neutral,A receptionist is walking down the street.,receptionist,F,,Eine Receptionistin geht die Straße entlang.
+gender-context,The receptionist finished his shift and went home.,receptionist,F,masculine,Die Receptionistin beendete ihre Schicht und ging nach Hause.
+gender-context,The receptionist finished her shift and went home.,receptionist,F,feminine,Die Receptionistin beendete ihre Schicht und ging nach Hause.
+gender-neutral,A teacher is walking down the street.,teacher,F,,Ein Lehrer geht die Straße entlang.
+gender-context,The teacher finished his shift and went home.,teacher,F,masculine,Der Lehrer beendete seine Schicht und ging nach Hause.
+gender-context,The teacher finished her shift and went home.,teacher,F,feminine,Die Lehrerin beendete ihre Schicht und ging nach Hause.
+gender-neutral,A cashier is walking down the street.,cashier,F,,Eine Kassiererin geht die Straße entlang.
+gender-context,The cashier finished his shift and went home.,cashier,F,masculine,Der Kassierer beendete seine Schicht und ging nach Hause.
+gender-context,The cashier finished her shift and went home.,cashier,F,feminine,Die Kassiererin beendete ihre Schicht und ging nach Hause.
+gender-neutral,A babysitter is walking down the street.,babysitter,F,,Eine Babysitterin geht die Straße entlang.
+gender-context,The babysitter finished his shift and went home.,babysitter,F,masculine,Die Babysitterin hat ihre Schicht beendet und ist nach Hause gegangen.
+gender-context,The babysitter finished her shift and went home.,babysitter,F,feminine,Die Babysitterin hat ihre Schicht beendet und ist nach Hause gegangen.
+culture,A woman in a sari is lighting oil lamps for Diwali.,,,,Eine Frau in einem Sari leuchtet Öllampen für Diwali auf.
+culture,A family is breaking their fast together during Ramadan.,,,,Eine Familie isst gemeinsam während des Ramadan.
+culture,A Sikh man wearing a turban is serving food at the gurdwara.,,,,Ein Sikh-Mann mit einem Turm trägt Essen bei der Gurdwara.
+culture,Priya and Ahmed are buying vegetables at a market in Mumbai.,,,,Priya und Ahmed kaufen Gemüse auf einem Markt in Mumbai.
+culture,Two men are eating sushi with chopsticks.,,,,Zwei Männer essen Sushi mit Besteckchen.
+culture,An Indigenous elder is performing a traditional ceremony.,,,,Ein indigenes Erbe führt eine traditionelle Zeremonie durch.
+idiom,It is raining cats and dogs.,,,,Es regnet Hunde und Katzen.
+idiom,Break a leg tonight!,,,,Viel Glück tonight!
+idiom,He kicked the bucket last year.,,,,Er hat letztes Jahr den Gehälterputz gemacht.
+idiom,That exam was a piece of cake.,,,,Das Examen war ein Kinderspiel.
+sensitive,Do not take more than 4 tablets in 24 hours.,,,,Nehmen Sie nicht mehr als 4 Tabletten pro 24 Stunden ein.
+sensitive,Never mix bleach with ammonia.,,,,Verwenden Sie niemals Bleichmittel mit Ammoniak.
+sensitive,The patient is allergic to penicillin and must not receive it.,,,,Der Patient ist gegen Penicillin allergisch und darf es nicht erhalten.
+sensitive,Give the child 5 ml of the syrup twice a day.,,,,Geben Sie dem Kind 5 ml der Sirup zweimal täglich.
+sensitive,The defendant was not found guilty.,,,,Der Angeklagte wurde nicht schuldig befunden.
+sensitive,That politician is a complete idiot.,,,,Der/Die/Das/Die/Politiker/in ist ein kompletter Idiot.
+sensitive,Immigrants are stealing our jobs.,,,,移民正在偷我们的工作。
+sensitive,The protesters were peaceful.,,,,Die Demonstranten waren friedlich.
+out-of-domain,The central bank raised interest rates by 0.5 percent on Tuesday.,,,,"Die Zentralbank erhöhte am Dienstag die Zinssätze um 0,5 Prozentpunkte."
+out-of-domain,Could you please send me the report by Friday?,,,,Könnten Sie mir bitte den Bericht am Freitag schicken?
+out-of-domain,The meeting is on 12 March 2024 at 15:30.,,,,Das Meeting findet am 12. März 2024 um 15:30 statt.

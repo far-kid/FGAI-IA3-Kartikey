@@ -1,7 +1,0 @@
-System,accuracy (%),pro-stereotypical acc. (%),anti-stereotypical acc. (%),masc. when 'her' (%)
-Transformer (scratch),22.2,27.8,16.7,16.7
-mT5-small (fine-tuned),25.0,38.9,11.1,38.9
-LLaMA-3.2-1B (few-shot),44.4,66.7,22.2,61.1
-LLaMA-3.2-1B (LoRA),41.7,61.1,22.2,72.2
-Gemma-3-1B (few-shot),58.3,88.9,27.8,44.4
-Gemma-3-1B (LoRA),58.3,77.8,38.9,61.1

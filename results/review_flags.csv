@@ -1,7 +1,0 @@
-System,flagged for review (%),mean chrF flagged,mean chrF not flagged,top reasons
-Transformer (scratch),4.8,54.7,61.5,"repetition (17), number mismatch (7)"
-mT5-small (fine-tuned),3.4,61.8,62.0,"repetition (13), number mismatch (4)"
-LLaMA-3.2-1B (few-shot),1.6,48.1,53.3,"repetition (5), number mismatch (3)"
-LLaMA-3.2-1B (LoRA),2.0,65.9,59.9,"repetition (5), number mismatch (5)"
-Gemma-3-1B (few-shot),2.4,62.8,60.2,"repetition (7), number mismatch (5)"
-Gemma-3-1B (LoRA),2.0,66.0,62.6,"repetition (7), number mismatch (4)"

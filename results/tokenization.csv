@@ -1,5 +1,5 @@
 Tokenizer,Vocab size,EN tokens/sent,DE tokens/sent,EN tokens/word,DE tokens/word,Example (DE)
-Transformer – joint BPE (ours),8000,13.63,13.92,1.13,1.25,▁Vier | ▁schwarze | ▁Männer | ▁sitzen | ▁auf | ▁den | ▁Stufen | ▁einer | ▁Kirche.
-mT5-small – google/mt5-small,250100,17.45,19.09,1.45,1.71,▁Vier | ▁schwarz | e | ▁Männer | ▁ | sitzen | ▁auf | ▁den | ▁Stuf | en | ▁ | einer | ▁Kirche | .
-LLaMA-3.2-1B – meta-llama/Llama-3.2-1B-Instruct,128256,13.55,19.16,1.13,1.72,V | ier | Ġschwar | ze | ĠMÃ¤nner | Ġsit | zen | Ġauf | Ġden | ĠSt | ufen | Ġeiner | ĠKir | che
-Gemma-3-1B – google/gemma-3-1b-it,262145,13.39,16.53,1.11,1.48,V | ier | ▁schwar | ze | ▁Männer | ▁sitzen | ▁auf | ▁den | ▁St | ufen | ▁einer | ▁Kirche | .
+Transformer – joint BPE (ours),8000,13.63,13.92,1.1318717820959974,1.2461951656222023,▁Vier | ▁schwarze | ▁Männer | ▁sitzen | ▁auf | ▁den | ▁Stufen | ▁einer | ▁Kirche.
+mT5-small – google/mt5-small,250100,17.448,19.092,1.4489287493771799,1.7092211280214862,▁Vier | ▁schwarz | e | ▁Männer | ▁ | sitzen | ▁auf | ▁den | ▁Stuf | en | ▁ | einer | ▁Kirche | .
+LLaMA-3.2-1B – meta-llama/Llama-3.2-1B-Instruct,128256,13.55,19.162,1.1252283673808336,1.7154879140555057,V | ier | Ġschwar | ze | ĠMÃ¤nner | Ġsit | zen | Ġauf | Ġden | ĠSt | ufen | Ġeiner | ĠKir | che
+Gemma-3-1B – google/gemma-3-1b-it,262145,13.388,16.534,1.1117754525826276,1.4802148612354522,V | ier | ▁schwar | ze | ▁Männer | ▁sitzen | ▁auf | ▁den | ▁St | ufen | ▁einer | ▁Kirche | .

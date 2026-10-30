@@ -1,0 +1,76 @@
+category,text,occupation,stereotype,expected
+gender-neutral,A doctor is walking down the street.,doctor,M,
+gender-context,The doctor finished his shift and went home.,doctor,M,masculine
+gender-context,The doctor finished her shift and went home.,doctor,M,feminine
+gender-neutral,An engineer is walking down the street.,engineer,M,
+gender-context,The engineer finished his shift and went home.,engineer,M,masculine
+gender-context,The engineer finished her shift and went home.,engineer,M,feminine
+gender-neutral,A pilot is walking down the street.,pilot,M,
+gender-context,The pilot finished his shift and went home.,pilot,M,masculine
+gender-context,The pilot finished her shift and went home.,pilot,M,feminine
+gender-neutral,A surgeon is walking down the street.,surgeon,M,
+gender-context,The surgeon finished his shift and went home.,surgeon,M,masculine
+gender-context,The surgeon finished her shift and went home.,surgeon,M,feminine
+gender-neutral,A mechanic is walking down the street.,mechanic,M,
+gender-context,The mechanic finished his shift and went home.,mechanic,M,masculine
+gender-context,The mechanic finished her shift and went home.,mechanic,M,feminine
+gender-neutral,A programmer is walking down the street.,programmer,M,
+gender-context,The programmer finished his shift and went home.,programmer,M,masculine
+gender-context,The programmer finished her shift and went home.,programmer,M,feminine
+gender-neutral,A lawyer is walking down the street.,lawyer,M,
+gender-context,The lawyer finished his shift and went home.,lawyer,M,masculine
+gender-context,The lawyer finished her shift and went home.,lawyer,M,feminine
+gender-neutral,A farmer is walking down the street.,farmer,M,
+gender-context,The farmer finished his shift and went home.,farmer,M,masculine
+gender-context,The farmer finished her shift and went home.,farmer,M,feminine
+gender-neutral,A police officer is walking down the street.,police officer,M,
+gender-context,The police officer finished his shift and went home.,police officer,M,masculine
+gender-context,The police officer finished her shift and went home.,police officer,M,feminine
+gender-neutral,A scientist is walking down the street.,scientist,M,
+gender-context,The scientist finished his shift and went home.,scientist,M,masculine
+gender-context,The scientist finished her shift and went home.,scientist,M,feminine
+gender-neutral,A nurse is walking down the street.,nurse,F,
+gender-context,The nurse finished his shift and went home.,nurse,F,masculine
+gender-context,The nurse finished her shift and went home.,nurse,F,feminine
+gender-neutral,A secretary is walking down the street.,secretary,F,
+gender-context,The secretary finished his shift and went home.,secretary,F,masculine
+gender-context,The secretary finished her shift and went home.,secretary,F,feminine
+gender-neutral,A hairdresser is walking down the street.,hairdresser,F,
+gender-context,The hairdresser finished his shift and went home.,hairdresser,F,masculine
+gender-context,The hairdresser finished her shift and went home.,hairdresser,F,feminine
+gender-neutral,A dancer is walking down the street.,dancer,F,
+gender-context,The dancer finished his shift and went home.,dancer,F,masculine
+gender-context,The dancer finished her shift and went home.,dancer,F,feminine
+gender-neutral,A receptionist is walking down the street.,receptionist,F,
+gender-context,The receptionist finished his shift and went home.,receptionist,F,masculine
+gender-context,The receptionist finished her shift and went home.,receptionist,F,feminine
+gender-neutral,A teacher is walking down the street.,teacher,F,
+gender-context,The teacher finished his shift and went home.,teacher,F,masculine
+gender-context,The teacher finished her shift and went home.,teacher,F,feminine
+gender-neutral,A cashier is walking down the street.,cashier,F,
+gender-context,The cashier finished his shift and went home.,cashier,F,masculine
+gender-context,The cashier finished her shift and went home.,cashier,F,feminine
+gender-neutral,A babysitter is walking down the street.,babysitter,F,
+gender-context,The babysitter finished his shift and went home.,babysitter,F,masculine
+gender-context,The babysitter finished her shift and went home.,babysitter,F,feminine
+culture,A woman in a sari is lighting oil lamps for Diwali.,,,
+culture,A family is breaking their fast together during Ramadan.,,,
+culture,A Sikh man wearing a turban is serving food at the gurdwara.,,,
+culture,Priya and Ahmed are buying vegetables at a market in Mumbai.,,,
+culture,Two men are eating sushi with chopsticks.,,,
+culture,An Indigenous elder is performing a traditional ceremony.,,,
+idiom,It is raining cats and dogs.,,,
+idiom,Break a leg tonight!,,,
+idiom,He kicked the bucket last year.,,,
+idiom,That exam was a piece of cake.,,,
+sensitive,Do not take more than 4 tablets in 24 hours.,,,
+sensitive,Never mix bleach with ammonia.,,,
+sensitive,The patient is allergic to penicillin and must not receive it.,,,
+sensitive,Give the child 5 ml of the syrup twice a day.,,,
+sensitive,The defendant was not found guilty.,,,
+sensitive,That politician is a complete idiot.,,,
+sensitive,Immigrants are stealing our jobs.,,,
+sensitive,The protesters were peaceful.,,,
+out-of-domain,The central bank raised interest rates by 0.5 percent on Tuesday.,,,
+out-of-domain,Could you please send me the report by Friday?,,,
+out-of-domain,The meeting is on 12 March 2024 at 15:30.,,,

@@ -1,7 +1,0 @@
-System,Architecture,Adaptation,Total params (M),Trainable params (M),Embedding params (M),BLEU,chrF,Train time (min),Inference time (s),ms / sentence,Train peak GPU (GB),Inference peak GPU (GB),Avg input tokens
-Transformer (scratch),Encoder–decoder,Trained from scratch,7.58,7.58,2.05,33.49,59.55,3.68,1.63,3.26,1.58,0.2,14.63
-mT5-small (fine-tuned),Encoder–decoder,Full fine-tuning,300.18,300.18,256.11,35.54,61.0,16.35,7.46,14.91,10.58,3.8,23.45
-LLaMA-3.2-1B (few-shot),Decoder-only,"3-shot prompting, no training",1235.81,0.0,262.67,23.06,52.62,0.0,108.53,217.06,,7.8,238.54
-LLaMA-3.2-1B (LoRA),Decoder-only,"LoRA r=16 on 2000 pairs, zero-shot prompt",1235.81,11.27,262.67,32.42,59.39,8.01,48.37,96.73,7.34,6.71,65.54
-Gemma-3-1B (few-shot),Decoder-only,"3-shot prompting, no training",999.89,0.0,301.99,30.37,59.59,0.0,70.19,140.39,,6.42,210.39
-Gemma-3-1B (LoRA),Decoder-only,"LoRA r=16 on 2000 pairs, zero-shot prompt",999.89,13.05,301.99,35.24,61.87,5.24,33.67,67.35,6.96,5.55,40.39

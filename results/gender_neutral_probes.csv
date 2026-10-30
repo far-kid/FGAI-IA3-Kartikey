@@ -1,7 +1,0 @@
-System,masculine,feminine,other/neutral,masc. for F-stereotyped jobs (%),fem. for M-stereotyped jobs (%)
-Transformer (scratch),44.4,5.6,50.0,37.5,0.0
-mT5-small (fine-tuned),50.0,5.6,44.4,37.5,0.0
-LLaMA-3.2-1B (few-shot),77.8,0.0,22.2,50.0,0.0
-LLaMA-3.2-1B (LoRA),77.8,5.6,16.7,50.0,0.0
-Gemma-3-1B (few-shot),72.2,22.2,5.6,37.5,0.0
-Gemma-3-1B (LoRA),88.9,5.6,5.6,75.0,0.0

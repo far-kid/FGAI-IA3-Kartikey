@@ -1,7 +1,0 @@
-System,chrF 1–8 words (n=84),chrF 9–12 words (n=226),chrF 13–16 words (n=137),chrF 17+ words (n=53)
-Transformer (scratch),62.5,61.9,58.9,54.0
-mT5-small (fine-tuned),63.6,61.6,61.2,57.7
-LLaMA-3.2-1B (few-shot),56.7,51.8,52.2,52.9
-LLaMA-3.2-1B (LoRA),64.0,58.9,59.1,58.1
-Gemma-3-1B (few-shot),64.2,59.1,58.4,60.1
-Gemma-3-1B (LoRA),65.9,62.1,61.7,59.1
