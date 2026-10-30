@@ -1,0 +1,7 @@
+System,empty,too long (>1.8x),too short (<0.5x),repetition,English residue,meta-text,low chrF (<25),any flag (%)
+Transformer (scratch),0,4,1,17,0,0,1,4.2
+mT5-small (fine-tuned),0,0,0,13,0,0,6,3.8
+LLaMA-3.2-1B (few-shot),0,0,0,5,0,0,12,3.4
+LLaMA-3.2-1B (LoRA),0,0,0,5,0,0,3,1.6
+Gemma-3-1B (few-shot),0,1,1,7,0,0,2,2.2
+Gemma-3-1B (LoRA),0,2,0,7,0,0,3,2.4

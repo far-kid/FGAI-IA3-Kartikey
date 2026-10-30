@@ -1,0 +1,68 @@
+
+Worst translations per system (lowest sentence-level chrF):
+
+### Transformer (scratch)
+  chrF  18.8 | SRC: Two performers putting on a mock fight for an audience that is watching attentively.
+             | REF: Zwei Schauspieler inszenieren einen Kampf vor einen gebannten Publikum.
+             | HYP: Zwei Künstler kämpfen auf einem Mock für Zuschauer, das Zuschauer beobachtet wird.
+  chrF  26.7 | SRC: A crackhead is pretending to keep his hands warm but actually he is smoking crack.
+             | REF: Ein Crack-Opfer tut so, als würde es seine Hände aufwärmen wollen, raucht aber in Wahrheit Crack.
+             | HYP: Ein Kleger hebt seine Hände, um den Aufdruck der sich nicht zu erholzt, raucht.
+  chrF  27.0 | SRC: A clerk in a convenience store asks a customer buying alcohol for his age and identification.
+             | REF: Ein Mitarbeiter in einem Laden fragt einen Kunden, der Alkohol kauft, nach seinem Alter und einem Ausweis.
+             | HYP: Ein Kuss in einem Kegelkunstunstvollen Geschäft kauft etwas für einen Kunden.
+
+### mT5-small (fine-tuned)
+  chrF  13.0 | SRC: Doctors performing some type of surgery.
+             | REF: Ärzte bei einer Art Operation.
+             | HYP: Doktoren führen ein Stück chirurgischen Chirurgie.
+  chrF  14.8 | SRC: A guard is on the look out while on duty.
+             | REF: Ein Wachmann hält Wache während seiner Schicht.
+             | HYP: Ein Schutzanzug steht auf dem Weg und schaut aus.
+  chrF  18.0 | SRC: A guy give a kiss to a guy also
+             | REF: Ein Typ küsst einen anderen Typ
+             | HYP: Ein Mann hält eine Krawatte zu einem Mann.
+
+### LLaMA-3.2-1B (few-shot)
+  chrF  12.8 | SRC: People on the sideline of a soccer match.
+             | REF: Menschen an der Seitenlinie bei einem Fußballspiel.
+             | HYP: Die Zuschauer am Spielfeld.
+  chrF  15.4 | SRC: A kid is looking at coffee machines inside a store.
+             | REF: Ein Kind sieht sich Kaffeemaschinen in einem Geschäft an.
+             | HYP: Ein Junge schaut in die Schalter der Cafeteria.
+  chrF  16.7 | SRC: A crackhead is pretending to keep his hands warm but actually he is smoking crack.
+             | REF: Ein Crack-Opfer tut so, als würde es seine Hände aufwärmen wollen, raucht aber in Wahrheit Crack.
+             | HYP: Ein Schläger, der sich vor einem Rauchstich täuscht, aber tatsächlich Rauch ist.
+
+### LLaMA-3.2-1B (LoRA)
+  chrF  21.8 | SRC: Construction workers having a discussion by the tracks.
+             | REF: Arbeiter diskutieren neben den Schienen.
+             | HYP: Bauarbeiter unterhalten sich am Gleis.
+  chrF  23.1 | SRC: A bunch of beer pull tabs at a bar with Christmas lights on the ceiling.
+             | REF: Ein paar Bier-Zapfhähne in einer Bar mit Weihnachtsdekoration an der Decke.
+             | HYP: Eine Menge Bierpulltaben an einem Bar mit Kerzen auf dem Dach.
+  chrF  24.2 | SRC: The group of people are all covered by umbrellas.
+             | REF: Alle Personen in der Gruppe stehen unter Regenschirmen.
+             | HYP: Die Menschen sind alle mit Schirmen bedeckt.
+
+### Gemma-3-1B (few-shot)
+  chrF  24.7 | SRC: A crowd is present at a bar.
+             | REF: Eine Gruppe ist in einer Bar.
+             | HYP: Es gibt eine Menschenmenge an einem Bar.
+  chrF  24.9 | SRC: A guard is on the look out while on duty.
+             | REF: Ein Wachmann hält Wache während seiner Schicht.
+             | HYP: Ein Wächter ist auf Patrouille, während er Dienst hat.
+  chrF  25.4 | SRC: # 8 for Iowa State stiff arms a Texas AM player attempting to tackle him.
+             | REF: Die # 8 von Iowa State streckt den Arm in Richtung eines Spielers der Texas AM beim Versuch, ihn zu tackeln.
+             | HYP: 8 für die Iowa State-Staffe hält einen Texas AM-Spieler ab.
+
+### Gemma-3-1B (LoRA)
+  chrF  21.4 | SRC: A guard is on the look out while on duty.
+             | REF: Ein Wachmann hält Wache während seiner Schicht.
+             | HYP: Ein Wächter wacht auf der Wache.
+  chrF  22.3 | SRC: Two female members of team USA performing a jump high-five surrounded by two other female members.
+             | REF: Zwei Spielerinnen der US-Nationalmannschaft klatschen im Sprung ab, umgeben von zwei weiteren Spielerinnen.
+             | HYP: Zwei weibliche Mitglieder des US-Teams machen einen High-Five mit einem anderen weiblichen Mitglied.
+  chrF  24.0 | SRC: People playing a game in the pool.
+             | REF: Leute spielen ein Spiel im Pool.
+             | HYP: Menschen spielen im Schwimmbecken.

@@ -1,0 +1,54 @@
+SRC : Two teams of boys playing football in the sand.
+REF : Zwei Jugendteams spielen Football im Sand.
+  Transformer (scratch)   : Zwei Jungen spielen Football im Sand.
+  mT5-small (fine-tuned)  : Zwei Jungen spielen Football im Sand.
+  LLaMA-3.2-1B (few-shot) : Zwei Teams von Jungen spielen Fußball auf Sand.
+  LLaMA-3.2-1B (LoRA)     : Zwei Teams von Jungen spielen Fußball auf dem Sand.
+  Gemma-3-1B (few-shot)   : Zwei Mannschaften von Schülern spielen Fußball im Sand.
+  Gemma-3-1B (LoRA)       : Zwei Teams von Jungen spielen Fußball im Sand.
+--------------------------------------------------------------------------------------------------------------
+SRC : Two African american females ride on a moped down a city street that appears to be in a well congested area of a large city area.
+REF : Zwei afroamerikanische Frauen fahren auf einem Moped auf einer städtischen Straße, die sich anscheinend in einem Großstadtgebiet mit Stau befindet.
+  Transformer (scratch)   : Zwei afroamerikanische Frauen fahren auf einem Moped eine Straße in einer Stadt, die sich auf einer großen Stadt in einer Großstadt zu sehen ist.
+  mT5-small (fine-tuned)  : Zwei afroamerikanische Frauen fahren auf einer Moped eine Straße, die in einem sehr belebten Gebiet eines großen Stadtgebiets scheint.
+  LLaMA-3.2-1B (few-shot) : Zwei afrikanische Frauen sitzen auf einem Moped und fahren durch eine Stadtstraße, die sich in einer sehr verkehrsgeschäftigen Stadtviertel von einer großen Stadt zeigt.
+  LLaMA-3.2-1B (LoRA)     : Zwei schwarze Frauen fahren auf einem Moped eine Stadtstraße, die sich in einer sehr belasteten Stadtzone befindet.
+  Gemma-3-1B (few-shot)   : Zwei afrikanisch-stämmige Frauen fahren auf einem Motorrad auf einer belebten Straße in einer Großstadtviertel.
+  Gemma-3-1B (LoRA)       : Zwei afroamerikanische Frauen fahren auf einem Motorrad auf einer Straße in einer dicht besiedelten Gegend einer Großstadt.
+--------------------------------------------------------------------------------------------------------------
+SRC : Group of men sitting around a table having a conversation.
+REF : Gruppe von Männern sitzt an einem Tisch und unterhält sich.
+  Transformer (scratch)   : Eine Gruppe von Männern sitzt um einen Tisch herum und unterhält sich.
+  mT5-small (fine-tuned)  : Eine Gruppe von Männern sitzt um einen Tisch und unterhält sich.
+  LLaMA-3.2-1B (few-shot) : Ein Gruppe von Männern sitzt um einen Tisch und führt eine Gespräch.
+  LLaMA-3.2-1B (LoRA)     : Eine Gruppe von Männern sitzt um einen Tisch und unterhalten sich.
+  Gemma-3-1B (few-shot)   : Eine Gruppe von Männern sitzt um einen Tisch und unterhält sich mit einem Gespräch.
+  Gemma-3-1B (LoRA)       : Eine Gruppe Männer sitzt um einen Tisch und unterhält sich.
+--------------------------------------------------------------------------------------------------------------
+SRC : A guy and a girl going down a spiral walkway.
+REF : Ein Typ und ein Mädchen gehen einen spiralförmigen Fußweg hinunter.
+  Transformer (scratch)   : Ein Mann und ein Mädchen gehen einen stolzpfad entlang.
+  mT5-small (fine-tuned)  : Ein Mann und ein Mädchen gehen eine spirale Rutsche entlang.
+  LLaMA-3.2-1B (few-shot) : Ein Mann und eine Frau gehen abwechselnd nach unten auf eine Spiralküste.
+  LLaMA-3.2-1B (LoRA)     : Ein Mann und eine Frau gehen eine Spiralklasse hinunter.
+  Gemma-3-1B (few-shot)   : Ein Typ und ein Mädchen gehen durch eine spiralförmige Wege.
+  Gemma-3-1B (LoRA)       : Ein Mann und ein Mädchen gehen einen spiralförmigen Gehweg hinunter.
+--------------------------------------------------------------------------------------------------------------
+SRC : A young girl swimming in a pool
+REF : Ein junges Mädchen schwimmt in einem Pool
+  Transformer (scratch)   : Ein junges Mädchen schwimmt in einem Schwimmbecken.
+  mT5-small (fine-tuned)  : Ein junges Mädchen schwimmt in einem Schwimmbecken.
+  LLaMA-3.2-1B (few-shot) : Eine junge Frau schwimmt in einem Schwimmbecken.
+  LLaMA-3.2-1B (LoRA)     : Ein Mädchen schwimmt in einem Pool.
+  Gemma-3-1B (few-shot)   : Ein junges Mädchen schwimmt im Pool.
+  Gemma-3-1B (LoRA)       : Ein kleines Mädchen schwimmt in einem Pool.
+--------------------------------------------------------------------------------------------------------------
+SRC : A man sits on a bench listing to his iPod
+REF : Ein Mann sitzt auf einer Bank und hört Musik auf seinem iPod.
+  Transformer (scratch)   : Ein Mann sitzt auf einer Bank und malt seinen iPododododod zu machen.
+  mT5-small (fine-tuned)  : Ein Mann sitzt auf einer Bank und zeigt auf sein iPod.
+  LLaMA-3.2-1B (few-shot) : Ein Mann sitzt auf einer Sitzbank und hört auf sein iPod.
+  LLaMA-3.2-1B (LoRA)     : Ein Mann sitzt auf einer Bank und hört auf sein iPod.
+  Gemma-3-1B (few-shot)   : Ein Mann sitzt auf einer Bank und listet auf seinen iPod.
+  Gemma-3-1B (LoRA)       : Ein Mann sitzt auf einer Bank und schaut auf sein iPod.
+--------------------------------------------------------------------------------------------------------------
